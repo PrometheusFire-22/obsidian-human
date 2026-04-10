@@ -1,0 +1,18 @@
+# Obsidian per-user state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+.obsidian/hotkeys.json
+.obsidian/cache
+.obsidian/themes
+.obsidian/plugins
+.obsidian/community-plugins.json
+.obsidian/core-plugins-migration.json
+
+# Trash and system files
+.trash/
+.DS_Store
+Thumbs.db
+
+# Attachments are tracked by default; uncomment to exclude
+# Attachments/
