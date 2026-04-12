@@ -16,3 +16,5 @@ Thumbs.db
 
 # Attachments are tracked by default; uncomment to exclude
 # Attachments/
+workspace.json
+workspace-mobile.json
