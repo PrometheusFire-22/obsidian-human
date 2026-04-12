@@ -1,0 +1,49 @@
+/* Geoff's vault — custom polish on top of Minimal Black */
+
+:root {
+  /* Obsidian native purple */
+  --accent: #7C3AED;
+  --accent-h: 258;
+  --accent-s: 80%;
+  --accent-l: 57%;
+
+  /* Tighten sidebar */
+  --nav-item-size: 13px;
+  --nav-heading-size: 11px;
+}
+
+/* Subtle purple tint on active file in sidebar */
+.nav-file.is-active .nav-file-title {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* Callout colors using Obsidian purple */
+.callout[data-callout="note"] {
+  --callout-color: 124, 58, 237;
+}
+
+/* Frontmatter section — less visual noise */
+.metadata-container {
+  opacity: 0.6;
+  font-size: 12px;
+}
+.metadata-container:hover {
+  opacity: 1;
+}
+
+/* Daily note nav links at bottom — subtle */
+.markdown-rendered a[href*="2026"] {
+  color: var(--text-muted);
+  text-decoration: none;
+  border-bottom: 1px solid var(--accent);
+}
+
+/* Tags pill style */
+.tag {
+  background-color: rgba(124, 58, 237, 0.15);
+  border: 1px solid rgba(124, 58, 237, 0.3);
+  color: #A78BFA;
+  border-radius: 4px;
+  font-size: 11px;
+}
