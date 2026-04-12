@@ -1,6 +1,6 @@
 filters:
   and:
-    - tags.contains("0🌲")
+    - categories.contains(link("Evergreens"))
     - '!file.name.contains("Template")'
 properties:
   file.name:
@@ -9,7 +9,7 @@ properties:
     displayName: Created
 views:
   - type: table
-    name: Evergreen
+    name: Evergreens
     order:
       - file.name
       - created
