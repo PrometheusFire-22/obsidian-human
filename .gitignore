@@ -18,3 +18,10 @@ Thumbs.db
 # Attachments/
 workspace.json
 workspace-mobile.json
+
+# Project artifacts
+opencode.json
+opencode.notes
+package.json
+package-lock.json
+test-postgres.json
