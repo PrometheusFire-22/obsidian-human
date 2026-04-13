@@ -1,9 +1,10 @@
 ---
-title: "Tangible Markets Email Reply"
-date: 2026-04-12
+title: Tangible Markets Email Reply
+date: 2026-03-24
 tags:
   - tangible-markets
   - correspondence
+  - career
 categories:
   - "[[Meetings]]"
 date-estimated: true

@@ -1,6 +1,6 @@
 ---
-title: "Ear Appointment"
-date: 2025-10-28
+title: Ear Appointment
+date: 2026-10-28
 tags:
   - health
   - medical

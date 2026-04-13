@@ -1,6 +1,6 @@
 ---
-title: "Cash Advance"
-date: 2026-04-05
+title: 2026-03-27 Cash Advance
+date: 2026-03-27
 tags:
   - finance
   - debt
