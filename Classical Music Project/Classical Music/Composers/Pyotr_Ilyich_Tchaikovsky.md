@@ -22,7 +22,7 @@ categories: Composers
 
 ## MusicBrainz
 
-- MBID: 
+- MBID: 31c31790-281c-43f1-bd23-644a42b15750
 - Sort Name: Tchaikovsky, Pyotr Ilyich
 
 ## Major Works

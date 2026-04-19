@@ -11,7 +11,7 @@ date-estimated: true
 
 # Network Outreach Strategy — Tangible Markets & Broader Reconnection
 
-**Context:** In discussions with Tangible Markets (London-based PE secondary brokerage/advisory) for a Sales Operations Analyst role (remote). Using this as a forcing function to reconnect with industry relationships, get a read on market comp, and implicitly surface broader opportunities.
+**Context:** In discussions with [[Tangible Markets]] (London-based PE secondary brokerage/advisory) for a Sales Operations Analyst role (remote). Using this as a forcing function to reconnect with industry relationships, get a read on market comp, and implicitly surface broader opportunities.
 
 **Framing principle:** This is not a job search call. It's a reconnection call where you're asking for their read on the market. The Tangible Markets situation is colour, not the ask.
 
@@ -21,14 +21,14 @@ date-estimated: true
 
 ## Active Now vs. Wait for Resolution
 
-| Contact | Reach Out Now? | Reason |
-|---|---|---|
-| Contact 1 (close friend) | **Yes — this weekend** | Personal, internal, knows everything |
+| Contact                                      | Reach Out Now?         | Reason                                             |
+| -------------------------------------------- | ---------------------- | -------------------------------------------------- |
+| Contact 1 (close friend)                     | **Yes — this weekend** | Personal, internal, knows everything               |
 | Contact 2 (former coworker, competitor firm) | **Yes — this weekend** | Time-bounded, specific ask, he knows the situation |
-| Contact 3 (Pioneer founder) | Wait | High-stakes; want to show up clean |
-| Contact 4 (Vancouver platform) | Wait | High-growth firm, want to be a cleaner hire |
-| Contact 5 (Pioneer spinout group) | Wait | Broad reconnection; no urgency |
-| Contact 6 (MD at PE fund) | Wait | Weakest relationship; no time pressure |
+| Contact 3 (Pioneer founder)                  | Wait                   | High-stakes; want to show up clean                 |
+| Contact 4 (Vancouver platform)               | Wait                   | High-growth firm, want to be a cleaner hire        |
+| Contact 5 (Pioneer spinout group)            | Wait                   | Broad reconnection; no urgency                     |
+| Contact 6 (MD at PE fund)                    | Wait                   | Weakest relationship; no time pressure             |
 
 ---
 

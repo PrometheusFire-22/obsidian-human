@@ -1,0 +1,27 @@
+filters:
+  and:
+    - categories.contains(link("YouTubes"))
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Title
+  note.author:
+    displayName: Creator
+  note.published:
+    displayName: Published
+  note.rating:
+    displayName: Rating
+  note.topics:
+    displayName: Topics
+views:
+  - type: table
+    name: All videos
+    order:
+      - file.name
+      - author
+      - published
+      - rating
+      - topics
+    sort:
+      - property: note.published
+        direction: DESC

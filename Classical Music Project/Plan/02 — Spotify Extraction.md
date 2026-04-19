@@ -5,7 +5,7 @@ status: pending
 phase: spotify-extraction
 linear:
 tags: [classical-music-project, spotify]
-categories: [[Projects]]
+categories: Projects
 ---
 
 # Spotify Extraction

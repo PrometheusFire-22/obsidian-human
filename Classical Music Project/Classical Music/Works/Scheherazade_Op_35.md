@@ -38,12 +38,12 @@ categories: Works
 
 ## Recordings
 
-| Track | Key | Soloist | Orchestra | Conductor | Label | Year | Duration |
-|-------|-----|---------|-----------|-----------|-------|------|----------|
-| The Sea and Sinbad's Ship | B minor | Sidney Harth | [[Chicago Symphony Orchestra]] | [[Fritz Reiner]] | [[RCA Victor Red Seal]] | 1960 | 9:02 |
-| The Story of the Kalender Prince | B minor | Sidney Harth | [[Chicago Symphony Orchestra]] | [[Fritz Reiner]] | [[RCA Victor Red Seal]] | 1960 | 11:30 |
-| The Young Prince and the Young Princess | B minor | Sidney Harth | [[Chicago Symphony Orchestra]] | [[Fritz Reiner]] | [[RCA Victor Red Seal]] | 1960 | 11:55 |
-| Festival at Baghdad | B minor | Sidney Harth | [[Chicago Symphony Orchestra]] | [[Fritz Reiner]] | [[RCA Victor Red Seal]] | 1960 | 9:30 |
+| Track                                   | Key         | Soloist          | Orchestra                      | Conductor        | Label                   | Year | Duration |
+| --------------------------------------- | ----------- | ---------------- | ------------------------------ | ---------------- | ----------------------- | ---- | -------- |
+| The Sea and Sinbad's Ship               | [[B minor]] | [[Sidney Harth]] | [[Chicago Symphony Orchestra]] | [[Fritz Reiner]] | [[RCA Victor Red Seal]] | 1960 | 9:02     |
+| The Story of the Kalender Prince        | [[B minor]] | [[Sidney Harth]] | [[Chicago Symphony Orchestra]] | [[Fritz Reiner]] | [[RCA Victor Red Seal]] | 1960 | 11:30    |
+| The Young Prince and the Young Princess | [[B minor]] | [[Sidney Harth]] | [[Chicago Symphony Orchestra]] | [[Fritz Reiner]] | [[RCA Victor Red Seal]] | 1960 | 11:55    |
+| Festival at Baghdad                     | [[B minor]] | [[Sidney Harth]] | [[Chicago Symphony Orchestra]] | [[Fritz Reiner]] | [[RCA Victor Red Seal]] | 1960 | 9:30     |
 
 ## Listening
 

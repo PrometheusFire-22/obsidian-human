@@ -22,7 +22,7 @@ categories: Composers
 
 ## MusicBrainz
 
-- MBID: 
+- MBID: e1d521ea-5b97-4981-987c-ba988b2a87d7
 - Sort Name: Satie, Erik
 
 ## Major Works

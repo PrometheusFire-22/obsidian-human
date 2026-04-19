@@ -22,7 +22,7 @@ categories: Composers
 
 ## MusicBrainz
 
-- MBID: 
+- MBID:  9e78280f-7980-4962-9705-40898517227d
 - Sort Name: Vivaldi, Antonio
 
 ## Major Works

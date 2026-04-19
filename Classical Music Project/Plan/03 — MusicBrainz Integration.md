@@ -5,7 +5,7 @@ status: pending
 phase: musicbrainz-integration
 linear:
 tags: [classical-music-project, musicbrainz]
-categories: [[Projects]]
+categories: Projects
 ---
 
 # MusicBrainz Integration

@@ -5,7 +5,7 @@ status: in-progress
 phase: ontology-schema
 linear:
 tags: [classical-music-project, ontology]
-categories: [[Projects]]
+categories: Projects
 ---
 
 # Ontology & Schema

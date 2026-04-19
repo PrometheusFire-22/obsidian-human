@@ -5,7 +5,7 @@ status: in-progress
 phase: planning
 linear:
 tags: [classical-music-project]
-categories: [[Projects]]
+categories: Projects
 ---
 
 # Classical Music LLM-Wiki Project

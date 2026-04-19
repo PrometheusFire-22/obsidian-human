@@ -4,7 +4,7 @@ created: 2026-04-18
 status: in-progress
 linear:
 tags: [classical-music-project, planning]
-categories: [[Projects]]
+categories: Projects
 ---
 
 # Detailed Planning

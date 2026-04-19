@@ -5,7 +5,7 @@ status: pending
 phase: architecture
 linear:
 tags: [classical-music-project, architecture, llm-wiki]
-categories: [[Projects]]
+categories: Projects
 ---
 
 # Architecture (LLM-Wiki Pattern)

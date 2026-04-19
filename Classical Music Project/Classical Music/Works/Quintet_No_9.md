@@ -10,7 +10,7 @@ catalogue: G. 453
 medium: Guitar + Strings
 year_composed: 1798
 movements: 4
-mbid: 
+mbid: 3d2c67b5-1c76-43cf-bf89-a0e622be3f1b
 spotify_album: Boccherini: Guitar Quintets
 listened_date: 2026-04-18
 listened_count: 1
