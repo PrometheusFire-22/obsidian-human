@@ -225,36 +225,35 @@ poetry run classical-music-wiki extract
 
 Output: `~/notes/Classical Music/Raw/spotify-export-YYYY-MM-DD.json`
 
-### MusicBrainz — Adding Recording Data
+### Enrichment Workflow
 
-The workflow uses progressive disclosure: the user provides clues, you search MusicBrainz, then prompt for more info if needed.
+Spotify provides limited metadata:
+- ✅ Artist, track name, album
+- ❌ Soloist, conductor, orchestra, record label, year, duration
 
-**Step 1: User provides known info**
-User might say: "find recording for Enigma Variations with conductor and orchestra"
-Or just: "Bernstein, BBC Symphony, Deutsche Grammophon"
+**Missing metadata must be filled via MusicBrainz:**
 
-**Step 2: Query MusicBrainz**
-Use the provided clues to search. Include as many identifiers as possible:
-- Composer name
-- Orchestra/conductor
-- Record label
-- Year (if known)
+**Step 1: Extract from Spotify**
+- Run extraction, list unique albums/tracks
+- Note what's missing: soloist, conductor, orchestra, label, year
 
-**Step 3: If insufficient info, prompt for more**
-If search returns multiple results or is too ambiguous, ask follow-up questions:
-- "What year did you listen to this?" or "Which conductor/orchestra?"
-- "Do you remember the record label?"
+**Step 2: Query MusicBrainz for album/recording**
+- Search by: album name, composer, year (if known)
+- Find: record label, recording date, soloist, orchestra
 
-**Step 4: Add to work note**
+**Step 3: Ask user if needed**
+If MusicBrainz returns multiple results or lacks clear match:
+- "What year did you listen to this?"
+- "Do you remember the conductor/orchestra?"
+- "Which label (Deutsche Grammophon, RCA, etc.)?"
+
+**Step 4: Update work note**
 Once exact recording found:
-- Add recording to the Recordings table
+- Fill in Recordings table with full metadata
 - Update `listened_count`, `listened_date`
-- Add tags like `#conductor/bernstein`, `#orchestra/bbc-symphony`
+- Add tags: `#conductor/`, `#orchestra/`, `#label/`
 
-**Example prompts user might use:**
-- "find [work] with [conductor]"
-- "add recording: [conductor], [orchestra], [label], [year]"
-- "what did I listen to for [work]?"
+### MusicBrainz — Manual Entry
 
 ### MusicBrainz — Manual Entry
 
