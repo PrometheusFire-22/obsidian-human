@@ -231,7 +231,7 @@ Spotify provides limited metadata:
 - ✅ Artist, track name, album
 - ❌ Soloist, conductor, orchestra, record label, year, duration
 
-**Missing metadata must be filled via MusicBrainz:**
+**Missing metadata must be filled via MusicBrainz.**
 
 **Step 1: Extract from Spotify**
 - Run extraction, list unique albums/tracks
@@ -247,10 +247,15 @@ If MusicBrainz returns multiple results or lacks clear match:
 - "Do you remember the conductor/orchestra?"
 - "Which label (Deutsche Grammophon, RCA, etc.)?"
 
-**Step 4: Update work note**
+**Step 4: Defer to MusicBrainz for dates**
+- Spotify listening date ≠ recording year
+- Use MusicBrainz for recording date/label
+- Use user input for "when did you listen to this?" (listened_date)
+
+**Step 5: Update work note**
 Once exact recording found:
-- Fill in Recordings table with full metadata
-- Update `listened_count`, `listened_date`
+- Fill in Recordings table with full metadata from MusicBrainz
+- Update `listened_count` (from Spotify) and `listened_date` (user input)
 - Add tags: `#conductor/`, `#orchestra/`, `#label/`
 
 ### MusicBrainz — Manual Entry
