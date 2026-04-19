@@ -1,0 +1,26 @@
+{
+  "Edward Elgar": {
+    "mbid": "4e60a56a-514a-4a19-a3cc-49927c96b3cb",
+    "name": "Edward Elgar",
+    "sort_name": "Elgar, Edward",
+    "nationality": "GB",
+    "birth": "1857-06-02",
+    "death": "1934-02-23"
+  },
+  "Luigi Boccherini": {
+    "mbid": "5c1a3f8f-d5e5-4dcd-9e44-9443f06bb77d",
+    "name": "Luigi Boccherini",
+    "sort_name": "Boccherini, Luigi",
+    "nationality": "IT",
+    "birth": "1743-02-19",
+    "death": "1805-05-28"
+  },
+  "Anton Bruckner": {
+    "mbid": "9debb4c3-dc10-440f-9c96-b777d51ea998",
+    "name": "Anton Bruckner",
+    "sort_name": "Bruckner, Anton",
+    "nationality": "AT",
+    "birth": "1824-09-04",
+    "death": "1896-10-11"
+  }
+}
