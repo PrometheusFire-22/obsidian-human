@@ -27,7 +27,7 @@ categories: Composers
 
 ## Major Works
 
-- [[Symphony No. 40 in G minor, K. 550 & No. 41 in C major, K. 551 "Jupiter"]]
-
+- [[Symphony_No_40_K550]]
+- [[Symphony_No_41_Jupiter_K551]]
 
 ## Listening Notes

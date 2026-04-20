@@ -258,6 +258,15 @@ Once exact recording found:
 - Update `listened_count` (from Spotify) and `listened_date` (user input)
 - Add tags: `#conductor/`, `#orchestra/`, `#label/`
 
+**Step 6: Split albums with multiple major works**
+Some Spotify albums contain multiple distinct pieces that should be tracked separately:
+
+- ✅ Split when: Album has 2+ major works (e.g., Mozart Symphonies 40+41, Prokofiev Concertos 1+2)
+- ❌ Don't split when: Album is a single work with many movements (Debussy Préludes, Chopin 24 Preludes)
+- ⚠ Don't split when: Piano album with many short pieces (too impractical to track individually)
+
+**Rule:** If each piece has its own distinct identity/opus number and would be searched for independently, create separate work notes. If it's one larger work divided into movements, keep as one note.
+
 ### MusicBrainz — Manual Entry
 
 ### MusicBrainz — Manual Entry
