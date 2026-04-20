@@ -13,7 +13,7 @@ movements: 4
 mbid: 4bf36cb5-817b-4ef4-b0e4-63e00fa27dc5 
 spotify_album: 
 listened_date: 2026-04-18
-listened_count: 1
+listened_count: 2
 tags: ["#form/symphonic-suite", "#medium/orchestra", "#period/romantic", "#key/b-minor"]
 related_works: []
 categories: Works
@@ -49,5 +49,11 @@ categories: Works
 
 - **First Listened:** 2026-04-18
 - **Album:** Rimsky-Korsakov: Scheherazade / Flight Of The Bumblebee
+
+## Related Tracks
+
+| Track | Key | Soloist | Orchestra | Conductor | Label | Year | Duration |
+|-------|-----|---------|-----------|-----------|-------|------|----------|
+| Flight of the Bumblebee | [[A minor]] | | [[Chicago Symphony Orchestra]] | [[Fritz Reiner]] | [[RCA Victor Red Seal]] | 1960 | 1:45 |
 
 ## Notes
