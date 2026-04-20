@@ -18,6 +18,7 @@ related_works: []
 categories: Works
 ---
 
+
 # Symphony No. 40 in G minor, K. 550 & No. 41 in C major, K. 551 "Jupiter"
 
 **Composer:** [[Wolfgang Amadeus Mozart]]
