@@ -60,7 +60,7 @@ categories: Works
 
 | Track | Key | Soloist | Orchestra | Conductor | Label | Year | Duration |
 |-------|-----|---------|-----------|-----------|-------|------|----------|
-| 24 Preludes | All keys | [[Maurizio Pollini]] | | | [[Deutsche Grammophon]] | 1979 | 43:28 |
+| 24 Preludes | Various | [[Martha Argerich]] | | | [[Deutsche Grammophon]] | 1975 | 1:17:32 |
 
 ## Listening
 
