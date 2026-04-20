@@ -269,8 +269,6 @@ Some Spotify albums contain multiple distinct pieces that should be tracked sepa
 
 ### MusicBrainz — Manual Entry
 
-### MusicBrainz — Manual Entry
-
 ```json
 {
   "Composer Name": {
